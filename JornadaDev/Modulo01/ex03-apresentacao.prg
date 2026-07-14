@@ -1,7 +1,7 @@
 REQUEST HB_CODEPAGE_PT850
 
 PROCEDURE Main()
-   LOCAL cNome   := "Jose Apolo Marques Nascimento"
+   LOCAL cNome   := " Apolo Marques "
    LOCAL cCidade := "SÆo Paulo - SP"
    LOCAL cCurso  := "Harbour/ADVPL"
 
