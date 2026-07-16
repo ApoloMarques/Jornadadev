@@ -1,3 +1,0 @@
-# Exercício 5 — Reflexão
-
-Dizemos que o computador não erra porque ele apenas executa as instruções que o programador fornece. Se um programa apresenta um resultado incorreto, normalmente o erro está na lógica ou na implementação feita por quem programou. Por isso, é fundamental desenvolver algoritmos bem estruturados, testar cada etapa e revisar o código para garantir que o sistema produza os resultados esperados.
