@@ -1,6 +1,6 @@
 // ============================================
 // NOME: ex04-data-hora.prg
-// DESCRI√á√ÉO: ficha com data e hora atuais
+// DESCRIÄ«O: Ficha com data e hora atuais
 // ============================================
 
 FUNCTION Main()
