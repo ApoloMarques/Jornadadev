@@ -1,26 +1,36 @@
 # 👋 Olá! Eu sou Apolo Marques
 
 <p align="center">
-  <b>Estudante de Desenvolvimento de Software | Harbour | ADVPL | Protheus | Git | GitHub</b>
+  <strong>Desenvolvedor em Formação • Harbour • ADVPL • ERP Protheus</strong>
+</p>
+
+<p align="center">
+  Este repositório documenta minha evolução durante a <strong>Jornada DEV START (TOTVS Paulista)</strong>, reunindo exercícios, desafios e projetos desenvolvidos ao longo da formação.
+</p>
+
+<p align="center">
+
+![Harbour](https://img.shields.io/badge/Harbour-Em%20Aprendizado-blue?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-Versionamento-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Portfólio-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-Editor-blue?style=for-the-badge&logo=visualstudiocode)
+![Jornada DEV](https://img.shields.io/badge/Jornada%20DEV-START-success?style=for-the-badge)
+
 </p>
 
 ---
 
-## 🚀 Sobre mim
+# 🚀 Sobre este repositório
 
-Sou estudante de Desenvolvimento de Software e atualmente participo da **Jornada DEV START (TOTVS Paulista)**, onde venho desenvolvendo sólidos conhecimentos em lógica de programação, Harbour e boas práticas de desenvolvimento.
+Este repositório foi criado para registrar minha evolução como desenvolvedor durante a Jornada DEV.
 
-Meu objetivo é construir uma carreira na área de desenvolvimento de software, com foco em **Harbour**, **ADVPL** e **ERP Protheus**, evoluindo continuamente por meio de projetos práticos e desafios de programação.
+Aqui organizo exercícios, desafios e projetos desenvolvidos em Harbour, sempre buscando escrever códigos organizados, legíveis e seguindo boas práticas desde os primeiros módulos.
 
-Acredito que a melhor forma de aprender é praticando. Por isso, este repositório registra minha evolução módulo a módulo.
+Meu objetivo é construir uma base sólida em desenvolvimento de software para evoluir futuramente no ecossistema **TOTVS**, utilizando **Harbour**, **ADVPL** e **ERP Protheus**.
 
 ---
 
-## 📂 Repositório Jornada DEV
-
-Neste repositório estão organizados todos os exercícios, projetos e desafios desenvolvidos durante a Jornada DEV.
-
-### Estrutura
+# 📂 Estrutura
 
 ```text
 📁 modulo-01/
@@ -28,88 +38,101 @@ Neste repositório estão organizados todos os exercícios, projetos e desafios 
 📁 modulo-03/
 📁 modulo-04/
 📁 assets/
+README.md
 ```
 
-Cada módulo representa uma etapa do meu aprendizado, permitindo acompanhar minha evolução na linguagem Harbour.
+Cada módulo representa uma etapa do meu aprendizado e permanece organizado para facilitar a navegação e acompanhar minha evolução.
 
 ---
 
-## 📚 Conteúdos estudados
+# 📚 Progresso da Jornada DEV
 
-### ✔ Lógica de Programação
+| Módulo | Conteúdo | Status | Conclusão |
+|:------:|-----------|:------:|:---------:|
+| **01** | Introdução ao Harbour | ✅ | Jul/2026 |
+| **02** | Algoritmos, Fluxogramas e Pseudocódigo | ✅ | Jul/2026 |
+| **03** | Variáveis, Operadores e Entrada de Dados | ✅ | Jul/2026 |
+| **04** | Estruturas Condicionais (IF, ELSEIF, DO CASE e OTHERWISE) | ✅ | Jul/2026 |
+| **05** | Estruturas de Repetição | 🚧 | Em andamento |
+
+---
+
+# 💻 Tecnologias
+
+- Harbour
+- Linguagem C
+- Git
+- GitHub
+- Visual Studio Code
+
+---
+
+# 📖 Conhecimentos desenvolvidos
+
+## ✔ Lógica de Programação
 
 - Algoritmos
 - Fluxogramas
 - Pseudocódigo
-- Refinamento sucessivo
+- Refinamento Sucessivo
+- Estruturas Condicionais
 
-### ✔ Harbour
+## ✔ Harbour
 
-- Variáveis
-- Operadores
-- Entrada de dados (ACCEPT)
+- FUNCTION Main()
+- LOCAL
+- ACCEPT
+- VAL()
+- Operadores Matemáticos
+- Entrada e Saída de Dados
 - IF / ELSEIF / ELSE
 - DO CASE
 - OTHERWISE
-- Cálculos
-- Função Main()
-- Organização de código
-
-### ✔ Ferramentas
-
-- Visual Studio Code
-- Harbour
-- Git
-- GitHub
+- Sqrt()
+- Organização de Código
 
 ---
 
-## 💻 Tecnologias
+# 🎯 Objetivos
 
-<p>
+- Consolidar conhecimentos em Harbour.
+- Evoluir para ADVPL e ERP Protheus.
+- Desenvolver projetos cada vez mais completos.
+- Aplicar boas práticas de programação desde o início da carreira.
+- Construir um portfólio sólido e bem organizado.
 
-<img src="https://img.shields.io/badge/Harbour-00599C?style=for-the-badge">
+---
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+# 📌 Próximos passos
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+- ✅ Finalizar a Jornada DEV.
+- 🚧 Aprimorar Harbour.
+- 🚧 Aprender ADVPL.
+- 🚧 Desenvolver soluções para ERP Protheus.
+- 🚧 Criar projetos completos utilizando boas práticas.
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+---
 
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+# 📈 Estatísticas do GitHub
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ApoloMarques&show_icons=true&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApoloMarques&layout=compact&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📈 Objetivo deste repositório
+# 🔗 Repositório
 
-Este repositório documenta minha evolução como desenvolvedor.
-
-Cada exercício é desenvolvido buscando:
-
-- código limpo;
-- organização;
-- boas práticas;
-- legibilidade;
-- evolução contínua.
+👉 **https://github.com/ApoloMarques/Jornadadev**
 
 ---
 
-## 🔗 Repositório
+## ⭐ Considerações finais
 
-👉 https://github.com/ApoloMarques/Jornadadev
+Este repositório representa minha jornada de aprendizado em desenvolvimento de software. Cada módulo reflete minha evolução técnica, meu compromisso com o aprendizado contínuo e a busca por escrever códigos cada vez mais organizados e legíveis.
 
----
-
-## 📌 Próximos passos
-
-- Aprimorar Harbour
-- Aprender ADVPL
-- Desenvolver soluções para Protheus
-- Construir projetos completos
-- Evoluir continuamente como desenvolvedor
-
----
-
-⭐ Obrigado por visitar meu repositório!
+Obrigado pela visita!
