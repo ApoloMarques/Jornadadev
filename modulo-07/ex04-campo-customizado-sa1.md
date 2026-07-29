@@ -22,4 +22,4 @@ Criar um campo customizado na tabela SA1 seguindo o padrão do campo A1_VOVO cri
 
 O campo foi criado com sucesso no dicionário de dados (SX3), seguindo o mesmo padrão utilizado para o campo A1_VOVO.
 
-Foi realizada a validação no SmartClient, por meio da rotina de Cadastro de Clientes. O campo customizado foi exibido corretamente na abas Outros, confirmando sua criação e disponibilização no sistema.
+Foi realizada a validação no SmartClient, por meio da rotina de Cadastro de Clientes. O campo customizado foi exibido corretamente na aba Outros, confirmando sua criação e disponibilização no sistema.
