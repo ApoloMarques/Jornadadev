@@ -1,0 +1,62 @@
+Group 
+   Version=7.0
+   VSSDB=
+   HasProperties=1
+   Properties
+      BeforeApply=
+      AfterApply=
+      Icon=
+      ID=
+      Version=
+      PalmName=
+      OutPut=
+   End
+   ProjectsCount=1
+   Project Novo Projeto
+      FoldersCount=2
+      Folder Fontes
+         VSSPath=Fontes
+         FilesCount=12
+         File \Jornadadev\modulo-08\STTIP001.PRW
+             Type=T
+         End
+         File \Jornadadev\modulo-08\ex04-validacao-existcpo.prw
+             Type=T
+         End
+         File \Jornadadev\modulo-08\cep\stcep.prw
+             Type=T
+         End
+         File \Jornadadev\modulo-08\ex08-filtro-mes.prw
+             Type=T
+         End
+         File \Jornadadev\modulo-09\ex02-biblioteca-rotinas\STTIPLIB.PRW
+             Type=T
+         End
+         File \Jornadadev\modulo-09\ex02-biblioteca-rotinas\STTIP003.PRW
+             Type=T
+         End
+         File \Jornadadev\modulo-09\ex02-biblioteca-rotinas\STTIP004.PRW
+             Type=T
+         End
+         File \Jornadadev\modulo-09\ex02-biblioteca-rotinas\STTIP04B.PRW
+             Type=T
+         End
+         File \Jornadadev\modulo-09\ex06-gravacao-segura.prw
+             Type=T
+         End
+         File \Jornadadev\TCC\fontes\STTZZ1.PRW
+             Type=T
+         End
+         File \Jornadadev\TCC\fontes\STTZZ2.PRW
+             Type=T
+         End
+         File \Jornadadev\TCC\fontes\STTZZLIB.PRW
+             Type=T
+         End
+      End
+      Folder Definições
+         VSSPath=Definições
+         FilesCount=0
+      End
+   End
+End
